@@ -9,7 +9,7 @@ answers.
 
 Please send your answers to:
 
-henrik@fluentglobe.com
+people+developer@fluentglobe.com
 
 along with,
 
@@ -31,6 +31,7 @@ Next up will be a coding challenge.
 * What mobile devices do you have access to for testing?
 * Are you a morning or evening person?
 * How do you prefer to chat? IRC/iMessage/Slack/Skype/HipChat
+* What country do you live in, and where are you from?
 
 #### HTML Questions:
 
@@ -59,6 +60,12 @@ Next up will be a coding challenge.
 * What are the pros and cons of using Promises instead of callbacks?
 * Do you have a preference between Web Pack and Browserify?
 * Do you have a preference between npm and bower?
+
+#### Games
+
+* Have you made a game with Phaser before, please describe or link to it?
+* What is your preference for Pixi vs Phaser?
+* How have you handled sound on mobile devices?
 
 #### Other Questions:
 
