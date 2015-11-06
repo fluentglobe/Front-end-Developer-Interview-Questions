@@ -75,6 +75,8 @@ Next up will be a coding challenge.
 * Tea or Coffee?
 * Cats or Dogs?
 * Activity Holiday or Party Holiday?
+* What skills set developers apart as potentially great? I.E. Using certain unusual technologies
+* What makes a solution better, by priority? Docs, Tests, OOP, Functional, Formatting, Commands, Examples, CI/CD, Small Code Size.
 
 
 #### Quiz
